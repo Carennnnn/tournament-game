@@ -1,4 +1,4 @@
-Feature: Part1 - One-melee scenarios
+Feature: One-melee scenarios
 
     Scenario Outline: <description>
         Given setup the game

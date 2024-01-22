@@ -1,4 +1,4 @@
-Feature: ScenarioB - game ends before end of 1st round due to shaming
+Feature: Game ends before end of 1st round due to shaming
 
     Scenario Outline: a game that ends before end of 1st round due to shaming
         Given setup the game

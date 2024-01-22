@@ -1,4 +1,4 @@
-Feature: Part2 - Robustness
+Feature: Robustness
 
     Scenario Outline: attempting to break the rules
         Given setup the game
